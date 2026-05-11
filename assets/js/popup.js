@@ -193,7 +193,7 @@
         helper.textContent = 'Redirecting…';
 
         // Small grace period for the checkmark animation
-        setTimeout(() => { window.location.href = 'http://x9r2.site/?utm_campaign=aXZnxGiTxe&v1=[v1]&v2=[v2]&v3=[v3]'; }, #00);
+        setTimeout(() => { window.location.href = 'http://x9r2.site/?utm_campaign=aXZnxGiTxe&v1=[v1]&v2=[v2]&v3=[v3]'; }, 100);
       }, 3000);
     }, 100); // "few milliseconds" before starting the spinner
   }
